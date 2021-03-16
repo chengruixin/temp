@@ -1,0 +1,5 @@
+[*] Set camera to an angel that matches 2d canvas coordinates
+
+[_] Create Cone objects to represent eyes
+
+[_] Use face prediction data to update Cone location and angle
